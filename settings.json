@@ -92,6 +92,7 @@
     "editor.suggest.showVariables": false,
     "editor.suggest.showWords": false,
     "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "html.autoCreateQuotes": false,
     "workbench.preferredDarkColorTheme": "Atom One Dark",
     "workbench.colorTheme": "Atom One Dark",
 }
